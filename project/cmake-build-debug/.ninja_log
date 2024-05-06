@@ -1,0 +1,5 @@
+# ninja log v5
+1	60	7107567291384495	CMakeFiles/project.dir/base/test.c.obj	6dde404a605f03e1
+61	128	7107567292043930	project.exe	27f2caf7ee71d2c2
+1	52	7105227486577141	CMakeFiles/project.dir/base/add.c.obj	54084c1af4a4939c
+0	104	7107801583670668	build.ninja	5e25191d58b43294
